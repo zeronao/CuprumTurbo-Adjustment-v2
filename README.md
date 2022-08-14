@@ -11,3 +11,4 @@
 
 本人在此只做搬运，官方地址：
 https://gitee.com/chenzyadb/cuprum-turbo/releases
+[123](https://telegra.ph/Flash-instructions-08-14)
